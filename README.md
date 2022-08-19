@@ -1,1 +1,1 @@
-# pleas-help-me-with-my-home-assistant
+# pleas-help-me-with-my-home-assistantIch brauche hilfe, anscheinend habe ich keinen homeassistant server https://homeassistant.local:8123 usw. Funktioniert nicht auch wenn ich mit fing in meinem netzwerk suche finde ich keine homeassisstant instanz (habe auch einen nest hub) und kann mich deshalb auch nicht bei homeassistant registrieren auch duckdns url geht nicht. Hilfe!
